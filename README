@@ -1,1 +1,3 @@
 Uses eztexting.com service for sending text messages.  You must have an account with them in order for this to work.  Add your eztexting username and password to send.php.
+
+Run a cron job on handler.php to automate sending.
