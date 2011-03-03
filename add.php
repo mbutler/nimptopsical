@@ -33,7 +33,7 @@ $digits= "digits.txt";
 $fh = fopen($digits, 'a') or die("can't open file");
 fwrite($fh, $phoneNumber . "\n");
 fclose($fh);
-echo "Added, thanks.  Look for a message around 9 every Friday night.  GET CRAMP'D, Y'ALL.  email matthewtbutler@gmail.com if you want off this crazy train.";
+echo "Added, thanks.  Look for a message around 9 every Friday night.  GET CRAMP'D, Y'ALL.  email me if you want off this crazy train.";
 
 
 
