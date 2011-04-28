@@ -5,7 +5,7 @@ include 'pickterm.php';
 
     /* check if message body is not blank and doesn't exceed allowable limit */
 
-    $subject = "Ben Franklin sez:";
+    $subject = "GOD DAMMIT I'M BENJAMIN FRANKLIN!";
 
     $message = $drunkterm;
 
